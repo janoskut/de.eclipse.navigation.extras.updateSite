@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Navigation Extras" url="http://www.no-url.com/">
+      Navigation Extras for Eclipse.
+   </description>
+   <feature url="features/de.eclipse.navigation.extras.feature_1.1.0.201111021650.jar" id="de.eclipse.navigation.extras.feature" version="1.1.0.201111021650">
+      <category name="navigation.extras"/>
+   </feature>
+   <category-def name="navigation.extras" label="Navigation Extras">
+      <description>
+         Tools for Eclipse Navigation.
+      </description>
+   </category-def>
+</site>
